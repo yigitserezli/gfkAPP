@@ -1,0 +1,6 @@
+src/assets:
+Görseller, ikonlar, fontlar, videolar gibi statik dosyalar bu klasörde yer alabilir.
+
+images/ (Görseller)
+icons/ (İkonlar)
+fonts/ (Font dosyaları)

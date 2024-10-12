@@ -1,0 +1,4 @@
+src/styles:
+Eğer stil dosyalarını ayırmak istiyorsanız, global veya paylaşılan stil dosyalarınızı burada tutabilirsiniz.
+
+globalStyles.js

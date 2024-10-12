@@ -1,0 +1,5 @@
+src/utils:
+Yardımcı fonksiyonlar ve genel işlevler bu klasörde olabilir.
+
+helpers.js
+validators.js

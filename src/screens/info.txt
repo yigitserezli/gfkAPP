@@ -1,0 +1,6 @@
+ src/screens:
+Uygulamanızın her bir ekranını burada saklayabilirsiniz. Örneğin, kullanıcıların gördüğü ana ekranlar, login, dashboard gibi ekranlar burada tutulabilir.
+
+HomeScreen.js
+LoginScreen.js
+ProfileScreen.js

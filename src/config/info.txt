@@ -1,0 +1,5 @@
+src/config:
+Genel uygulama ayarları, API endpoint'leri veya çevresel değişkenler gibi konfigürasyon dosyaları burada yer alabilir.
+
+apiConfig.js
+appConfig.js

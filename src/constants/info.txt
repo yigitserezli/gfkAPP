@@ -1,0 +1,5 @@
+src/constants:
+Uygulamanızda kullanılan sabitler (örneğin, sabit URL'ler, renkler, stil dosyaları) burada yer alabilir.
+
+colors.js
+fonts.js

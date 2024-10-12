@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "GfkMobileApp",
+    "slug": "GfkMobileApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ygtsrzl.GfkMobileApp",
+      "jsengine": "hermes"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.ygtsrzl.GfkMobileApp",
+      "jsengine": "hermes"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "25045638-b0de-4ba4-a11c-50b68d65788e"
+      }
+    },
+    "runtimeVersion": "1.0.0",
+    "updates": {
+      "url": "https://u.expo.dev/25045638-b0de-4ba4-a11c-50b68d65788e"
+    }
+  }
+}

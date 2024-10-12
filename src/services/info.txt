@@ -1,0 +1,6 @@
+src/services:
+API istekleri ve uygulama ile ilgili dış servislerle etkileşimi sağlayan fonksiyonlar burada yer alabilir.
+
+api.js
+authService.js
+studentService.js

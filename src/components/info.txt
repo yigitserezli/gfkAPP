@@ -1,0 +1,6 @@
+2. src/components:
+Uygulamanızda yeniden kullanılabilir olan ve bağımsız çalışan UI bileşenlerini burada tutabilirsiniz.
+
+Button.js
+Card.js
+Header.js
